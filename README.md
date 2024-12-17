@@ -40,7 +40,7 @@ https://source.android.com/docs/setup/start/requirements
 
 2. Properly clone repository with submodules (KernelSU and toolchains)
 
-```git clone --recurse-submodules https://github.com/ExtremeXT/android_kernel_samsung_exynos9820.git```
+```git clone --recurse-submodules https://github.com/Ocin4ever/ExtremeKernel.git```
 
 3. Build for your device
 
